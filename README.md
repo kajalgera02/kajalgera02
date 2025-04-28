@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Dream%20Builder!🕹️✨&fontSize=70&animation=fadeIn)
 
-<img src="https://raw.githubusercontent.com/kajalgera02/kajalgera02/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **kajalgera02/kajalgera02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
